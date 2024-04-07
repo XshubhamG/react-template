@@ -4,6 +4,7 @@
 
 - [Description](#description)
 - [Installation](#installation)
+- [Dependencies](#dependencies)
 - [Usage](#usage)
 - [CLI Flags](#cli-flags)
 
@@ -20,6 +21,14 @@ bun create xshubhamg/react-template <directory_name>
 
 bun create github.com/xshubhamg/react-template <directory_name>
 ```
+
+## Dependencies
+
+- [vite](https://vitejs.dev/)
+- [tailwindcss](https://tailwindcss.com/)
+- [prettier](https://prettier.io/)
+- [eslint](https://eslint.org/)
+- [prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
 
 The above `bun create` command will create a new directory with the name of your choice.And initialize
 a new react project in that directory using vite and tailwindCSS preconfigured. You can now start
