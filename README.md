@@ -61,4 +61,4 @@ Bun will perform the following steps:
 ## Author
 
 - GitHub: [xshubhamg](https://github.com/xshubhamg)
-- Twitter: [@xshubhamg](https://twitter.com/codin_nerd)
+- Twitter: [@xshubhamg](https://twitter.com/codin_nerd)`
